@@ -1,12 +1,11 @@
 #include <iostream>
-int addNum (int A,int B)
-{ 
-int result = A + B;
-return result;
+int addnum(int f , int s){
+    int result = f + s;
+    return result;
 }
 int main()
 {
-    std::cout << "SUM = " << addNum (12,79) ;
-    return 0;
+int f = 9;
+int s = 9;
+std::cout << 
 }
-
